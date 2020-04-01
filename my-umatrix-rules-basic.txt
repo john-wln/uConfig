@@ -21,6 +21,7 @@
 4channel.org twitter.com frame allow
 duckduckgo.com * * allow
 invidio.us googlevideo.com media allow
+knowyourmeme.com kym-cdn.com * allow
 reddit.com * * allow
 reddit.com embedly.com frame allow
 reddit.com redditmedia.com frame allow
