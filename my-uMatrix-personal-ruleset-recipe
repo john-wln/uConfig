@@ -7,7 +7,7 @@
 
 
 Basic uMatrix rules
-    chrome-scheme *
+    https://github.com *
         * * * block
         * * css allow
         * * frame block
