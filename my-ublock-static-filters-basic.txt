@@ -1,3 +1,5 @@
+! Title: Adblock Warning Removal List
+
 ! Wikia
 wikia.com##.featured-video
 wikia.com###WikiaTopAds
