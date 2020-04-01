@@ -1,4 +1,4 @@
-! Title: Adblock Warning Removal List
+! Personal cosmetic filters for uBlock
 
 ! Wikia
 wikia.com##.featured-video
