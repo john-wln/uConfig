@@ -5,6 +5,7 @@
 ! Character "_" is an alias for "currently selected scope".
 ! An empty line MUST be used to separate distinct ruleset recipes.
 
+
 Basic uMatrix rules
     chrome-scheme *
         * * * block
