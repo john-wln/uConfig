@@ -1,4 +1,4 @@
-! uMatrix: Personal ruleset
+! uMatrix: Personal ruleset 
 ! Title: Personal ruleset
 !
 ! Lines starting with character "!" are ignored.
@@ -6,7 +6,7 @@
 ! An empty line MUST be used to separate distinct ruleset recipes.
 
 Basic uMatrix rules
-    chrome://settings *
+    chrome-scheme *
         * * * block
         * * css allow
         * * frame block
