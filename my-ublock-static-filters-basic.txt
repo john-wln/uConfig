@@ -1,4 +1,4 @@
-! Personal cosmetic filters for uBlock
+Personal cosmetic filters for uBlock
 
 ! Wikia
 wikia.com##.featured-video
