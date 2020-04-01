@@ -1,4 +1,5 @@
-Personal cosmetic filters for uBlock
+[Adblock Plus 2.0]
+! Title: Personal cosmetic filters for uBlock
 
 ! Wikia
 wikia.com##.featured-video
