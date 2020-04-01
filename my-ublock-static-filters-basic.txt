@@ -1,0 +1,62 @@
+! Wikia
+wikia.com##.featured-video
+wikia.com###WikiaTopAds
+wikia.com###WikiaBarWrapper
+wikia.com##.wds-global-footer
+
+! Fandom
+fandom.com##.featured-video
+fandom.com###WikiaTopAds
+fandom.com###WikiaBarWrapper
+fandom.com##.wds-global-footer
+fandom.com###TOP_BOXAD
+fandom.com###rsw-discord
+fandom.com##.rail-sponsored-content
+fandom.com###mixed-content-footer
+fandom.com##.avatars
+fandom.com##.community-page-rail-module
+fandom.com###top_boxad
+
+!! YouTube classic cleanup
+!youtube.com###unlimited-guide-item
+!youtube.com###guide-subscriptions-promo
+
+! Dailymail pop-out video player
+dailymail.co.uk##.mol-video.moduleFull > div > div > .item
+
+! Kissanime
+kissanime.ru###adsIfrme1
+kissanime.ru###rightside > div:nth-of-type(5)
+kissanime.ru###adsIfrme6
+kissanime.ru##.barContent > div > div.clear2
+kissanime.ru##.barContent > div > div.clear
+kissanime.ru##.barContent > div > div:nth-of-type(9)
+kissanime.ru###divDownload
+kissanime.ru###divFileName
+kissanime.ru##div.divCloseBut:nth-of-type(5)
+kissanime.ru##.barContent > div > div:nth-of-type(8)
+kissanime.ru###p_1731229 > div
+||kissanime.ru/ads/madads.aspx$subdocument
+||kissanime.ru/ads/madads160.aspx
+||c.bebi.com
+kissanime.ru###adsIfrme7
+
+! Bulbapedia
+bulbapedia.bulbagarden.net###laptop-box
+bulbapedia.bulbagarden.net###upper-article
+
+! Discord widget
+||discordapp.com/widget?id=$subdocument
+
+!trace.moe
+trace.moe##.alert-info.alert
+
+!Google privacy review
+google.com##.vk_c.yAVMkd
+
+! YouTube polymer cleanup
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+
+! 02/03/2020 https://translate.google.com
+translate.google.com##.notification-container.tlid-notification-container
