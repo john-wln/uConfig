@@ -1,0 +1,66 @@
+! uMatrix: Personal ruleset recipe
+! Title: Personal rulesets for English websites
+!
+! Lines starting with character "!" are ignored.
+! Character "_" is an alias for "currently selected scope".
+! An empty line MUST be used to separate distinct ruleset recipes.
+
+
+Basic uMatrix rules
+	github.com *
+		* * * block
+		* * css allow
+		* * frame block
+		* * image allow
+		* 1st-party * allow
+		* 1st-party frame allow
+		* googlevideo.com xhr allow
+		* youtube-nocookie.com frame allow
+		* youtube-nocookie.com script allow
+		* youtube.com cookie block
+		* youtube.com frame allow
+		* youtube.com script allow
+		* youtube.com xhr allow
+		4chan.org 4cdn.org * allow
+		4chan.org google.com frame allow
+		4chan.org google.com script allow
+		4chan.org google.com xhr allow
+		4chan.org gstatic.com script allow
+		4chan.org twitframe.com frame allow
+		4chan.org twitter.com frame allow
+		4channel.org 4cdn.org * allow
+		4channel.org google.com frame allow
+		4channel.org google.com script allow
+		4channel.org google.com xhr allow
+		4channel.org gstatic.com script allow
+		4channel.org twitframe.com frame allow
+		4channel.org twitter.com frame allow
+		invidio.us googlevideo.com media allow
+		knowyourmeme.com kym-cdn.com * allow
+		reddit.com * * allow
+		reddit.com embedly.com frame allow
+		reddit.com redditmedia.com frame allow
+		tineye.com www.google.com * allow
+		tineye.com www.google.com frame allow
+		tineye.com www.gstatic.com * allow
+		translate.google.com * cookie block
+		www.google.com * cookie block
+		youtube.com youtube.com cookie allow
+		_ 1st-party script
+        
+Github
+	github.com *
+		_ 1st-party script
+		_ githubapp.com *
+		_ githubusercontent.com *
+		! Required for raw/diff view of some files (e.g. pictures, pdf, svg)
+		_ render.githubusercontent.com script
+		_ render.githubusercontent.com frame
+		_ raw.githubusercontent.com *
+		_ raw.githubusercontent.com xhr
+		! Required for uploading pictures in comments
+		_ github-production-user-asset-6210df.s3.amazonaws.com xhr
+		! Required for uploading other files in comments
+		_ github-production-repository-file-5c1aeb.s3.amazonaws.com xhr
+        
+      
