@@ -20,46 +20,50 @@ fandom.com##.avatars
 fandom.com##.community-page-rail-module
 fandom.com###top_boxad
 
-!! YouTube classic cleanup
-!youtube.com###unlimited-guide-item
-!youtube.com###guide-subscriptions-promo
+! ! YouTube classic cleanup
+! youtube.com###unlimited-guide-item
+! youtube.com###guide-subscriptions-promo
 
 ! Dailymail pop-out video player
 dailymail.co.uk##.mol-video.moduleFull > div > div > .item
 
-! Kissanime
-kissanime.ru###adsIfrme1
-kissanime.ru###rightside > div:nth-of-type(5)
-kissanime.ru###adsIfrme6
-kissanime.ru##.barContent > div > div.clear2
-kissanime.ru##.barContent > div > div.clear
-kissanime.ru##.barContent > div > div:nth-of-type(9)
-kissanime.ru###divDownload
-kissanime.ru###divFileName
-kissanime.ru##div.divCloseBut:nth-of-type(5)
-kissanime.ru##.barContent > div > div:nth-of-type(8)
-kissanime.ru###p_1731229 > div
-||kissanime.ru/ads/madads.aspx$subdocument
-||kissanime.ru/ads/madads160.aspx
-||c.bebi.com
-kissanime.ru###adsIfrme7
+! ! Kissanime
+! kissanime.ru###adsIfrme1
+! kissanime.ru###rightside > div:nth-of-type(5)
+! kissanime.ru###adsIfrme6
+! kissanime.ru##.barContent > div > div.clear2
+! kissanime.ru##.barContent > div > div.clear
+! kissanime.ru##.barContent > div > div:nth-of-type(9)
+! kissanime.ru###divDownload
+! kissanime.ru###divFileName
+! kissanime.ru##div.divCloseBut:nth-of-type(5)
+! kissanime.ru##.barContent > div > div:nth-of-type(8)
+! kissanime.ru###p_1731229 > div
+! ||kissanime.ru/ads/madads.aspx$subdocument
+! ||kissanime.ru/ads/madads160.aspx
+! ||c.bebi.com
+! kissanime.ru###adsIfrme7
 
-! Bulbapedia
-bulbapedia.bulbagarden.net###laptop-box
-bulbapedia.bulbagarden.net###upper-article
+! ! Bulbapedia
+! bulbapedia.bulbagarden.net###laptop-box
+! bulbapedia.bulbagarden.net###upper-article
 
-! Discord widget
-||discordapp.com/widget?id=$subdocument
+! ! Discord widget
+! ||discordapp.com/widget?id=$subdocument
 
-!trace.moe
-trace.moe##.alert-info.alert
+! ! trace.moe
+! trace.moe##.alert-info.alert
 
-!Google privacy review
-google.com##.vk_c.yAVMkd
+! ! Google privacy review
+! google.com##.vk_c.yAVMkd
 
 ! YouTube polymer cleanup
 youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
 youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+youtube.com###sponsor-button
+youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
+youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(2)
+youtube.com###items > ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
 
-! 02/03/2020 https://translate.google.com
-translate.google.com##.notification-container.tlid-notification-container
+! ! https://translate.google.com
+! translate.google.com##.notification-container.tlid-notification-container
