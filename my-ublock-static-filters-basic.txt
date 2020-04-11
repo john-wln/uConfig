@@ -2,25 +2,36 @@
 ! Title: Personal cosmetic filters for uBlock
 
 ! Wikia
+wikia.com##.avatars
+wikia.com##.community-page-rail-module
 wikia.com##.featured-video
-wikia.com###WikiaTopAds
-wikia.com###WikiaBarWrapper
+wikia.com##.rail-sponsored-content
 wikia.com##.wds-global-footer
+wikia.com###mixed-content-footer
+wikia.com###mystory
+wikia.com###rsw-discord
+wikia.com###TOP_BOXAD
+wikia.com###top_boxad
+wikia.com###WikiaBarWrapper
+wikia.com###WikiaFooter
+wikia.com###WikiaTopAds
 
 ! Fandom
-fandom.com##.featured-video
-fandom.com###WikiaTopAds
-fandom.com###WikiaBarWrapper
-fandom.com##.wds-global-footer
-fandom.com###TOP_BOXAD
-fandom.com###rsw-discord
-fandom.com##.rail-sponsored-content
-fandom.com###mixed-content-footer
 fandom.com##.avatars
 fandom.com##.community-page-rail-module
+fandom.com##.featured-video
+fandom.com##.rail-sponsored-content
+fandom.com##.wds-global-footer
+fandom.com###mixed-content-footer
+fandom.com###mystory
+fandom.com###rsw-discord
+fandom.com###TOP_BOXAD
 fandom.com###top_boxad
+fandom.com###WikiaBarWrapper
+fandom.com###WikiaFooter
+fandom.com###WikiaTopAds
 
-! ! YouTube classic cleanup
+! ! YouTube classic
 ! youtube.com###unlimited-guide-item
 ! youtube.com###guide-subscriptions-promo
 
@@ -57,13 +68,13 @@ dailymail.co.uk##.mol-video.moduleFull > div > div > .item
 ! ! Google privacy review
 ! google.com##.vk_c.yAVMkd
 
-! YouTube polymer cleanup
-youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+! YouTube polymer
 youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-youtube.com###sponsor-button
-youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
 youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(2)
+youtube.com###sponsor-button
 youtube.com###items > ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
+youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
 
 ! ! https://translate.google.com
 ! translate.google.com##.notification-container.tlid-notification-container
