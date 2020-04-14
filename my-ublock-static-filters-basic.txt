@@ -32,8 +32,8 @@ fandom.com###WikiaFooter
 fandom.com###WikiaTopAds
 
 ! ! YouTube classic
-! youtube.com###unlimited-guide-item
-! youtube.com###guide-subscriptions-promo
+! www.youtube.com###unlimited-guide-item
+! www.youtube.com###guide-subscriptions-promo
 
 ! Dailymail pop-out video player
 dailymail.co.uk##.mol-video.moduleFull > div > div > .item
@@ -60,7 +60,7 @@ dailymail.co.uk##.mol-video.moduleFull > div > div > .item
 ! bulbapedia.bulbagarden.net###upper-article
 
 ! ! Discord widget
-! ||discordapp.com/widget?id=$subdocument
+! ||discordapp.com/widget
 
 ! ! trace.moe
 ! trace.moe##.alert-info.alert
