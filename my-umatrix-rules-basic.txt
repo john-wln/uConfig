@@ -39,12 +39,10 @@ referrer-spoof: behind-the-scene false
 4channel.org gstatic.com script allow
 4channel.org twitframe.com frame allow
 4channel.org twitter.com frame allow
-fandom.com * * allow
-fosshub.com * * allow
 google.com gstatic.com * allow
 knowyourmeme.com kym-cdn.com * allow
 quora.com quoracdn.net * allow
 reddit.com * * allow
 reddit.com embedly.com frame allow
 translate.google.com * cookie block
-www.youtube.com youtube.com cookie allow
+youtube.com youtube.com cookie allow
