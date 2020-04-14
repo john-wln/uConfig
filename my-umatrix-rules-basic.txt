@@ -1,3 +1,15 @@
+https-strict: behind-the-scene false
+matrix-off: about-scheme true
+matrix-off: behind-the-scene true
+matrix-off: chrome-extension-scheme true
+matrix-off: chrome-scheme true
+matrix-off: moz-extension-scheme true
+matrix-off: opera-scheme true
+matrix-off: vivaldi-scheme true
+matrix-off: wyciwyg-scheme true
+noscript-spoof: * true
+referrer-spoof: * true
+referrer-spoof: behind-the-scene false
 * * * block
 * * css allow
 * * frame block
@@ -27,14 +39,12 @@
 4channel.org gstatic.com script allow
 4channel.org twitframe.com frame allow
 4channel.org twitter.com frame allow
-invidio.us googlevideo.com media allow
+fandom.com * * allow
+fosshub.com * * allow
+google.com gstatic.com * allow
 knowyourmeme.com kym-cdn.com * allow
+quora.com quoracdn.net * allow
 reddit.com * * allow
 reddit.com embedly.com frame allow
-reddit.com redditmedia.com frame allow
-tineye.com www.google.com * allow
-tineye.com www.google.com frame allow
-tineye.com www.gstatic.com * allow
 translate.google.com * cookie block
-www.google.com * cookie block
-youtube.com youtube.com cookie allow
+www.youtube.com youtube.com cookie allow
