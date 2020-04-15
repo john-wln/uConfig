@@ -44,5 +44,6 @@ knowyourmeme.com kym-cdn.com * allow
 quora.com quoracdn.net * allow
 reddit.com * * allow
 reddit.com embedly.com frame allow
+reddit.com redditmedia.com frame allow
 translate.google.com * cookie block
 youtube.com youtube.com cookie allow
