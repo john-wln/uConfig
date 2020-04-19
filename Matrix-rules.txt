@@ -16,7 +16,10 @@ referrer-spoof: behind-the-scene false
 * * image allow
 * 1st-party * allow
 * 1st-party frame allow
+* google.com frame allow
 * googlevideo.com xhr allow
+* twitframe.com frame allow
+* twitter.com frame allow
 * youtube-nocookie.com frame allow
 * youtube-nocookie.com script allow
 * youtube.com cookie block
@@ -24,13 +27,7 @@ referrer-spoof: behind-the-scene false
 * youtube.com script allow
 * youtube.com xhr allow
 4chan.org * * allow
-4chan.org google.com frame allow
-4chan.org twitframe.com frame allow
-4chan.org twitter.com frame allow
 4channel.org * * allow
-4channel.org google.com frame allow
-4channel.org twitframe.com frame allow
-4channel.org twitter.com frame allow
 google.com gstatic.com * allow
 knowyourmeme.com kym-cdn.com * allow
 quora.com quoracdn.net * allow
