@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Personal cosmetic filters and adjustments for uBlock
+! Title: Personal filters and adjustments for uBlock
 
 ! Wikia
 wikia.com##.avatars
