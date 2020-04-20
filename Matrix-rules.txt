@@ -18,6 +18,7 @@ referrer-spoof: behind-the-scene false
 * 1st-party frame allow
 * google.com frame allow
 * googlevideo.com xhr allow
+* translate.googleapis.com xhr allow
 * twitframe.com frame allow
 * twitter.com frame allow
 * youtube-nocookie.com frame allow
