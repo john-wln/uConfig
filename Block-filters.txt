@@ -60,7 +60,7 @@ dailymail.co.uk##.mol-video.moduleFull > div > div > .item
 ! bulbapedia.bulbagarden.net###upper-article
 
 ! ! Discord widget
-! ||discordapp.com/widget
+||discordapp.com/widget
 
 ! ! trace.moe
 ! trace.moe##.alert-info.alert
