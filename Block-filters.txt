@@ -82,3 +82,21 @@ youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
 
 ! ! https://translate.google.com
 ! translate.google.com##.notification-container.tlid-notification-container
+
+! 03/05/2020 https://kissanime.ru
+kissanime.ru##.barContent > div > div:nth-of-type(8)
+kissanime.ru##.barContent > div > div.clear:nth-of-type(2)
+kissanime.ru##.barContent > div > div.clear2:nth-of-type(7)
+kissanime.ru##div.clear2:nth-of-type(9)
+kissanime.ru##div.clear2:nth-of-type(6)
+kissanime.ru##div.clear2:nth-of-type(5)
+kissanime.ru##.barContent > div > div.clear2:nth-of-type(3)
+kissanime.ru##div.clear:nth-of-type(13)
+kissanime.ru##div.clear2:nth-of-type(15)
+kissanime.ru###containerRoot > div:nth-of-type(9)
+kissanime.ru##div.clear2:nth-of-type(10)
+kissanime.ru##div.clear2:nth-of-type(11)
+kissanime.ru##.barContent > div > div.clear:nth-of-type(17)
+kissanime.ru###divTextQua
+kissanime.ru###divFileName
+kissanime.ru##div.clear2:nth-of-type(21)
