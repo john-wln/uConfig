@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Personal filters and adjustments for uBlock
+! Expires: 4 days
 
 ! Wikia
 wikia.com##.avatars
