@@ -36,8 +36,8 @@ fandom.com###WikiaTopAds
 ! www.youtube.com###unlimited-guide-item
 ! www.youtube.com###guide-subscriptions-promo
 
-! Dailymail pop-out video player
-dailymail.co.uk##.mol-video.moduleFull > div > div > .item
+! ! Dailymail pop-out video player
+! dailymail.co.uk##.mol-video.moduleFull > div > div > .item
 
 ! ! Kissanime
 ! kissanime.ru###adsIfrme1
@@ -59,6 +59,7 @@ dailymail.co.uk##.mol-video.moduleFull > div > div > .item
 ! ! Bulbapedia
 ! bulbapedia.bulbagarden.net###laptop-box
 ! bulbapedia.bulbagarden.net###upper-article
+bulbapedia.bulbagarden.net###bottomframe
 
 ! Discord widget
 ||discordapp.com/widget
@@ -69,14 +70,14 @@ dailymail.co.uk##.mol-video.moduleFull > div > div > .item
 ! ! Google privacy review
 ! google.com##.vk_c.yAVMkd
 
-! YouTube polymer on desktop
-youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
-youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
-youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(2)
-youtube.com###sponsor-button
-youtube.com###items > ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
-youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
+! ! YouTube polymer on desktop
+! youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+! youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+! youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+! youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(2)
+! youtube.com###sponsor-button
+! youtube.com###items > ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
+! youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
 
 ! Enable YouTube playback progress/history
 @@||youtube.com/api/stats/watchtime*
@@ -84,22 +85,13 @@ youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
 ! ! https://translate.google.com
 ! translate.google.com##.notification-container.tlid-notification-container
 
-! 03/05/2020 https://kissanime.ru
-||kissanime.ru/Content/images/tpl_box_shading2.png$image
-kissanime.ru##.barContent > div > div:nth-of-type(1)
+! 04/05/2020 https://kissanime.ru
+kissanime.ru##div.clear2
+kissanime.ru###divBookmark
+kissanime.ru##.barContent > div > div.clear2
+kissanime.ru##.barContent > div > div.clear
 kissanime.ru##.barContent > div > div:nth-of-type(8)
-kissanime.ru##.barContent > div > div.clear:nth-of-type(17)
-kissanime.ru##.barContent > div > div.clear:nth-of-type(2)
-kissanime.ru##.barContent > div > div.clear2:nth-of-type(3)
-kissanime.ru##.barContent > div > div.clear2:nth-of-type(7)
-kissanime.ru###containerRoot > div:nth-of-type(9)
-kissanime.ru###divFileName
-kissanime.ru###divTextQua
-kissanime.ru##div.clear:nth-of-type(13)
-kissanime.ru##div.clear2:nth-of-type(10)
-kissanime.ru##div.clear2:nth-of-type(11)
-kissanime.ru##div.clear2:nth-of-type(15)
-kissanime.ru##div.clear2:nth-of-type(21)
-kissanime.ru##div.clear2:nth-of-type(5)
-kissanime.ru##div.clear2:nth-of-type(6)
-kissanime.ru##div.clear2:nth-of-type(9)
+
+! 04/05/2020 https://www.youtube.com
+youtube.com###sponsor-button
+youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
