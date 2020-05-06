@@ -79,12 +79,6 @@ bulbapedia.bulbagarden.net###bottomframe
 ! youtube.com###items > ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
 ! youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
 
-! Enable YouTube playback progress/history
-@@||youtube.com/api/stats/watchtime*
-
-! ! https://translate.google.com
-! translate.google.com##.notification-container.tlid-notification-container
-
 ! 04/05/2020 https://kissanime.ru
 kissanime.ru##div.clear2
 kissanime.ru###divBookmark
@@ -92,6 +86,12 @@ kissanime.ru##.barContent > div > div.clear2
 kissanime.ru##.barContent > div > div.clear
 kissanime.ru##.barContent > div > div:nth-of-type(8)
 
-! 04/05/2020 https://www.youtube.com
+! 06/05/2020 https://www.youtube.com
 youtube.com###sponsor-button
-youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
+youtube.com###ticker
+youtube.com###button > .ytd-topbar-menu-button-renderer
+! Enable YouTube playback progress/history
+@@||youtube.com/api/stats/watchtime*
+
+! 06/05/2020 https://translate.google.com
+translate.google.com##.notification-container.tlid-notification-container
