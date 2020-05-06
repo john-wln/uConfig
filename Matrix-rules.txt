@@ -31,6 +31,7 @@ referrer-spoof: behind-the-scene false
 * youtube.com xhr allow
 4chan.org * * allow
 4channel.org * * allow
+chrome.google.com * cookie block
 google.com gstatic.com * allow
 knowyourmeme.com kym-cdn.com * allow
 quora.com quoracdn.net * allow
@@ -40,5 +41,6 @@ reddit.com redditmedia.com frame allow
 tineye.com * * allow
 tineye.com www.google.com frame allow
 translate.google.com * cookie block
+twitter.com twimg.com * allow
 www.google.com * cookie block
 youtube.com youtube.com cookie allow
