@@ -33,6 +33,7 @@ referrer-spoof: behind-the-scene false
 4channel.org * * allow
 chrome.google.com * cookie block
 google.com gstatic.com * allow
+google.com www.gstatic.com script allow
 knowyourmeme.com kym-cdn.com * allow
 quora.com quoracdn.net * allow
 reddit.com * * allow
