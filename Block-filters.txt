@@ -32,52 +32,12 @@ fandom.com###WikiaBarWrapper
 fandom.com###WikiaFooter
 fandom.com###WikiaTopAds
 
-! ! YouTube classic
-! www.youtube.com###unlimited-guide-item
-! www.youtube.com###guide-subscriptions-promo
-
-! ! Dailymail pop-out video player
-! dailymail.co.uk##.mol-video.moduleFull > div > div > .item
-
-! ! Kissanime
-! kissanime.ru###adsIfrme1
-! kissanime.ru###rightside > div:nth-of-type(5)
-! kissanime.ru###adsIfrme6
-! kissanime.ru##.barContent > div > div.clear2
-! kissanime.ru##.barContent > div > div.clear
-! kissanime.ru##.barContent > div > div:nth-of-type(9)
-! kissanime.ru###divDownload
-! kissanime.ru###divFileName
-! kissanime.ru##div.divCloseBut:nth-of-type(5)
-! kissanime.ru##.barContent > div > div:nth-of-type(8)
-! kissanime.ru###p_1731229 > div
-! ||kissanime.ru/ads/madads.aspx$subdocument
-! ||kissanime.ru/ads/madads160.aspx
-! ||c.bebi.com
-! kissanime.ru###adsIfrme7
-
 ! ! Bulbapedia
-! bulbapedia.bulbagarden.net###laptop-box
-! bulbapedia.bulbagarden.net###upper-article
+bulbapedia.bulbagarden.net###upper-article
 bulbapedia.bulbagarden.net###bottomframe
 
 ! Discord widget
 ||discordapp.com/widget
-
-! ! trace.moe
-! trace.moe##.alert-info.alert
-
-! ! Google privacy review
-! google.com##.vk_c.yAVMkd
-
-! ! YouTube polymer on desktop
-! youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
-! youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-! youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
-! youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(2)
-! youtube.com###sponsor-button
-! youtube.com###items > ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
-! youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
 
 ! 04/05/2020 https://kissanime.ru
 kissanime.ru##div.clear2
@@ -87,9 +47,12 @@ kissanime.ru##.barContent > div > div.clear
 kissanime.ru##.barContent > div > div:nth-of-type(8)
 
 ! 06/05/2020 https://www.youtube.com
+youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
 youtube.com###sponsor-button
-youtube.com###ticker
-youtube.com###button > .ytd-topbar-menu-button-renderer
+youtube.com###ticker > .ytd-masthead.style-scope
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
 ! Enable YouTube playback progress/history
 @@||youtube.com/api/stats/watchtime*
 
