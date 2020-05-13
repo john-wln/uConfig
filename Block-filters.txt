@@ -38,9 +38,11 @@ bulbapedia.bulbagarden.net###bottomframe
 
 ! Discord widget
 ||discordapp.com/widget
+||discord.com/widget
 
 ! 04/05/2020 https://kissanime.ru
 kissanime.ru##div.clear2
+kissanime.ru###divAudioParent
 kissanime.ru###divBookmark
 kissanime.ru##.barContent > div > div.clear2
 kissanime.ru##.barContent > div > div.clear
