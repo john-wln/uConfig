@@ -32,10 +32,6 @@ fandom.com###WikiaBarWrapper
 fandom.com###WikiaFooter
 fandom.com###WikiaTopAds
 
-! ! Bulbapedia
-bulbapedia.bulbagarden.net###upper-article
-bulbapedia.bulbagarden.net###bottomframe
-
 ! Discord widget
 ||discordapp.com/widget
 ||discord.com/widget
@@ -60,7 +56,3 @@ youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-ty
 
 ! 06/05/2020 https://translate.google.com
 translate.google.com##.notification-container.tlid-notification-container
-
-! 10/05/2020 https://hooktube.com
-hooktube.com##li.active.nav-item
-hooktube.com##.col-sm-12.col-md-4.col-lg-4
