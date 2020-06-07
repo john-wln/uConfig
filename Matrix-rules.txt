@@ -16,11 +16,19 @@ referrer-spoof: behind-the-scene false
 * * image allow
 * 1st-party * allow
 * 1st-party frame allow
+* ajax.cloudflare.com script allow
+* ajax.googleapis.com script allow
+* cdnjs.cloudflare.com script allow
+* embedly.com frame allow
+* gfycat.com frame allow
 * google.com frame allow
 * googlevideo.com xhr allow
-* translate.google.com script allow
-* translate.googleapis.com script allow
-* translate.googleapis.com xhr allow
+* hcaptcha.com frame allow
+* strawpoll.me frame allow
+* streamable.com frame allow
+* translate.google.com script allow #Needed for google translate extension
+* translate.googleapis.com script allow #Needed for google translate extension
+* translate.googleapis.com xhr allow    #Needed for google chrome's built-in translate function and google translate extension
 * twitframe.com frame allow
 * twitter.com frame allow
 * youtube-nocookie.com frame allow
@@ -32,16 +40,21 @@ referrer-spoof: behind-the-scene false
 4chan.org * * allow
 4channel.org * * allow
 chrome.google.com * cookie block
+discord.com discord.gg * allow
+facebook.com fbcdn.net * allow
 google.com gstatic.com * allow
-google.com www.gstatic.com script allow
+hooktube.com * * allow
 knowyourmeme.com kym-cdn.com * allow
 quora.com quoracdn.net * allow
 reddit.com * * allow
-reddit.com embedly.com frame allow
 reddit.com redditmedia.com frame allow
 tineye.com * * allow
-tineye.com www.google.com frame allow
+#Block account sign in to google translate but allow full page translations
+translate.google.com * * allow
 translate.google.com * cookie block
-twitter.com twimg.com * allow
+translate.google.com * frame allow
+twitter.com twimg.com * allow   
+wikipedia.org wikimedia.org * allow
+wiktionary.org wikimedia.org * allow
 www.google.com * cookie block
 youtube.com youtube.com cookie allow
