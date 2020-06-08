@@ -20,6 +20,7 @@ wikia.com###WikiaTopAds
 ! Fandom
 fandom.com##.avatars
 fandom.com##.community-page-rail-module
+fandom.com##.discord-module
 fandom.com##.featured-video
 fandom.com##.rail-sponsored-content
 fandom.com##.wds-global-footer
@@ -31,6 +32,11 @@ fandom.com###top_boxad
 fandom.com###WikiaBarWrapper
 fandom.com###WikiaFooter
 fandom.com###WikiaTopAds
+
+
+! ! Bulbapedia
+bulbapedia.bulbagarden.net###upper-article
+bulbapedia.bulbagarden.net###bottomframe
 
 ! Discord widget
 ||discordapp.com/widget
@@ -57,5 +63,6 @@ youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-ty
 ! 06/05/2020 https://translate.google.com
 translate.google.com##.notification-container.tlid-notification-container
 
-! 07/06/2020 https://hooktube.com
-hooktube.com##.alert-dismissable.alert-warning.alert
+! 10/05/2020 https://hooktube.com
+hooktube.com##li.active.nav-item
+hooktube.com##.col-sm-12.col-md-4.col-lg-4
