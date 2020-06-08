@@ -42,6 +42,7 @@ referrer-spoof: behind-the-scene false
 chrome.google.com * cookie block
 discord.com discord.gg * allow
 facebook.com fbcdn.net * allow
+fandom.com nocookie.net * allow
 google.com gstatic.com * allow
 hooktube.com * * allow
 knowyourmeme.com kym-cdn.com * allow
@@ -54,6 +55,7 @@ translate.google.com * * allow
 translate.google.com * cookie block
 translate.google.com * frame allow
 twitter.com twimg.com * allow   
+wikia.org nocookie.net * allow
 wikipedia.org wikimedia.org * allow
 wiktionary.org wikimedia.org * allow
 www.google.com * cookie block
