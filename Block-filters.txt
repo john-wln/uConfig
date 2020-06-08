@@ -33,7 +33,6 @@ fandom.com###WikiaBarWrapper
 fandom.com###WikiaFooter
 fandom.com###WikiaTopAds
 
-
 ! ! Bulbapedia
 bulbapedia.bulbagarden.net###upper-article
 bulbapedia.bulbagarden.net###bottomframe
