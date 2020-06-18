@@ -61,3 +61,9 @@ youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-ty
 
 ! 06/05/2020 https://translate.google.com
 translate.google.com##.notification-container.tlid-notification-container
+
+! 18/06/2020 https://hooktube.com
+hooktube.com##.alert-dismissable.alert-warning.alert
+hooktube.com##.col-sm-12.col-md-4.col-lg-4
+hooktube.com##.mr-auto.navbar-nav
+
