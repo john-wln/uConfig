@@ -67,3 +67,5 @@ hooktube.com##.alert-dismissable.alert-warning.alert
 hooktube.com##.col-sm-12.col-md-4.col-lg-4
 hooktube.com##.mr-auto.navbar-nav
 
+! 18/06/2020 https://old.reddit.com
+old.reddit.com###redesign-beta-optin-btn
