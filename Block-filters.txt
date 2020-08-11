@@ -33,21 +33,9 @@ fandom.com###WikiaBarWrapper
 fandom.com###WikiaFooter
 fandom.com###WikiaTopAds
 
-! ! Bulbapedia
-bulbapedia.bulbagarden.net###upper-article
-bulbapedia.bulbagarden.net###bottomframe
-
 ! Discord widget
 ||discordapp.com/widget
 ||discord.com/widget
-
-! 04/05/2020 https://kissanime.ru
-kissanime.ru##div.clear2
-kissanime.ru###divAudioParent
-kissanime.ru###divBookmark
-kissanime.ru##.barContent > div > div.clear2
-kissanime.ru##.barContent > div > div.clear
-kissanime.ru##.barContent > div > div:nth-of-type(8)
 
 ! 06/05/2020 https://www.youtube.com
 youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
