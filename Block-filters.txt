@@ -65,5 +65,7 @@ old.reddit.com###redesign-beta-optin-btn
 @@||connect.facebook.net^$script,domain=isitdownrightnow.com
 @@||www.facebook.com^$subdocument,domain=isitdownrightnow.com
 
-! 2020-08-11 https://twitter.com
-twitter.com##.r-1upvrn0.r-urgr8i.css-1dbjc4n
+! 2020-09-13 https://boards.4channel.org
+boards.4channel.org###togglePostFormLink
+boards.4channel.org##.qr-link-container
+boards.4channel.org##.boardTitle
