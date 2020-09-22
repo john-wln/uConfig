@@ -72,3 +72,6 @@ boards.4chan.org###togglePostFormLink
 boards.4channel.org##.boardTitle
 boards.4channel.org##.qr-link-container
 boards.4channel.org###togglePostFormLink
+! 2020-09-22 4chan(nel) thread footer cleanup
+boards.4chan.org##.adp-j.adg
+boards.4channel.org##.adc-resp-bg
