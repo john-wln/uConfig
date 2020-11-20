@@ -1,6 +1,5 @@
 [Adblock Plus 2.0]
 ! Title: Personal filters and adjustments for uBlock
-! Expires: 4 days
 
 ! Wikia
 wikia.com##.avatars
@@ -65,6 +64,10 @@ old.reddit.com###redesign-beta-optin-btn
 @@||connect.facebook.net^$script,domain=isitdownrightnow.com
 @@||www.facebook.com^$subdocument,domain=isitdownrightnow.com
 
+! ! 2020-11-20 4chan(nel) catalog cleanup
+boards.4chan.org##.qr-link
+boards.4channel.org##.qr-link
+
 ! ! 2020-09-13 4chan(nel) catalog cleanup
 ! boards.4chan.org##.boardTitle
 ! boards.4chan.org##.qr-link-container
@@ -72,8 +75,9 @@ old.reddit.com###redesign-beta-optin-btn
 ! boards.4channel.org##.boardTitle
 ! boards.4channel.org##.qr-link-container
 ! boards.4channel.org###togglePostFormLink
-! ! 2020-09-22 4chan(nel) thread footer cleanup
-! boards.4chan.org##.adc-resp-bg
-! boards.4chan.org##.adp-j.adg
-! boards.4channel.org##.adc-resp-bg
-! boards.4channel.org##.adp-j.adg
+
+! 2020-09-22 4chan(nel) thread footer cleanup
+boards.4chan.org##.adc-resp-bg
+boards.4chan.org##.adp-j.adg
+boards.4channel.org##.adc-resp-bg
+boards.4channel.org##.adp-j.adg
