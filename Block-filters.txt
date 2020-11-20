@@ -81,7 +81,3 @@ boards.4chan.org##.adc-resp-bg
 boards.4chan.org##.adp-j.adg
 boards.4channel.org##.adc-resp-bg
 boards.4channel.org##.adp-j.adg
-
-! 2020-11-20 https://boards.4channel.org Test
-boards.4chan.org##.desktop.title
-boards.4channel.org##.desktop.title
