@@ -1,1 +1,2 @@
-[Block filters](https://john-wln.github.io/uConfig/Block-filters.txt)
+[Filters](https://john-wln.github.io/uConfig/uBO-Filters.txt)
+[Rules](https://john-wln.github.io/uConfig/uBO-Rules.txt)
